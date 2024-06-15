@@ -1,20 +1,3 @@
-<!--
-
-## Hi there 👋
-**vdfuste/vdfuste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋, I'm Victor!
 
 I'm a software developer with a passion for graphics programming, video games and web apps development.  
@@ -45,6 +28,6 @@ A Game Boy Advance case picker implementing different animations based on the us
 ### 🛠️ Skills
 
 - Programming Languages: C++, Python, JavaScript, Java
-- Frameworks: [List of Frameworks]
-- Tools: Blender, VSCodium
+- Frameworks: PyQt, Next.js
+- Tools: Blender, Unity, VSCodium, Android Studio
 
