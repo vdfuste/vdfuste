@@ -27,7 +27,7 @@ A Game Boy Advance case picker implementing different animations based on the us
 
 ### 🛠️ Skills
 
-- Programming Languages: C++, C#, Python, JavaScript, Java
+- Programming Languages: C/C++, C#, Python, JavaScript, Java
 - Frameworks: PyQt, Next.js
 - Tools: Blender, Unity, VSCodium, Android Studio
 
